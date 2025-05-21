@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"type": "module",
+			"script": "install",
+			"path": "w03",
+			"group": "clean",
+			"problemMatcher": [],
+			"label": "npm: install - w03",
+			"detail": "install dependencies from package"
+		}
+	]
+}
+
+

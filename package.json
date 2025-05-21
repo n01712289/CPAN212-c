@@ -1,0 +1,28 @@
+{
+  "name": "cpan212-c",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n01712289/CPAN212-c.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n01712289/CPAN212-c/issues"
+  },
+  "homepage": "https://github.com/n01712289/CPAN212-c#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
